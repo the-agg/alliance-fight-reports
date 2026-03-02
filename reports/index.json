@@ -1,0 +1,38 @@
+{
+  "siteTheme": {
+    "ui": "kinetic",
+    "paletteId": "KineticPaperSlate",
+    "kineticFont": "original",
+    "kineticVariant": "slate"
+  },
+  "entries": [
+    {
+      "id": "20260301-210149-q7cv",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-02T05:01:49.000Z",
+      "dateEnd": "2026-03-02T06:17:14.000Z",
+      "dateLabel": "3/1/2026, 9:01:49 PM - 3/1/2026, 10:17:14 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260301-210149-q7cv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 30
+      }
+    }
+  ]
+}
