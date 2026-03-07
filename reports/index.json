@@ -1,11 +1,33 @@
 {
   "siteTheme": {
-    "ui": "kinetic",
-    "paletteId": "KineticPaperSlate",
-    "kineticFont": "original",
-    "kineticVariant": "slate"
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "original"
   },
   "entries": [
+    {
+      "id": "20260307-111433-j6b0",
+      "title": "Viktor Kas",
+      "commanders": [
+        "Viktor Kas"
+      ],
+      "dateStart": "2026-03-07T19:14:33.000Z",
+      "dateEnd": "2026-03-07T20:05:42.000Z",
+      "dateLabel": "3/7/2026, 11:14:33 AM - 3/7/2026, 12:05:42 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260307-111433-j6b0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20260301-210149-q7cv",
       "title": "Lightspeed Jack",
