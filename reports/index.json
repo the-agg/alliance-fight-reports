@@ -1,10 +1,33 @@
 {
   "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
+    "ui": "dark-glass",
+    "paletteId": "Aurora",
     "kineticFont": "original"
   },
   "entries": [
+    {
+      "id": "20260308-164749-rt5r",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-08T23:47:49.000Z",
+      "dateEnd": "2026-03-09T02:03:18.000Z",
+      "dateLabel": "3/8/2026, 4:47:49 PM - 3/8/2026, 7:03:18 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260308-164749-rt5r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260307-111433-j6b0",
       "title": "Viktor Kas",
