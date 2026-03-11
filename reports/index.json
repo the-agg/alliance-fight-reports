@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260310-170310-hiyj",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-11T00:03:10.000Z",
+      "dateEnd": "2026-03-11T00:23:23.000Z",
+      "dateLabel": "3/10/2026, 5:03:10 PM - 3/10/2026, 5:23:23 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260310-170310-hiyj",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260308-164749-rt5r",
       "title": "Lightspeed Jack",
       "commanders": [
