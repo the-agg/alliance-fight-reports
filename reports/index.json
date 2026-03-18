@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260317-185332-988h",
+      "title": "Undie Vided",
+      "commanders": [
+        "Undie Vided"
+      ],
+      "dateStart": "2026-03-18T01:53:32.000Z",
+      "dateEnd": "2026-03-18T03:01:53.000Z",
+      "dateLabel": "3/17/2026, 6:53:32 PM - 3/17/2026, 8:01:53 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260317-185332-988h",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260317-185332-8un4",
       "title": "Rizem Withthe Tizim",
       "commanders": [
