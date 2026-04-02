@@ -1,7 +1,40 @@
 {
-  "colorPalette": "emerald-mint",
+  "colorPalette": "electric-blue",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260401-171111-b12d",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-04-02T00:11:11.000Z",
+      "dateEnd": "2026-04-02T01:49:41.000Z",
+      "dateLabel": "4/1/2026, 5:11:11 PM - 4/1/2026, 6:49:41 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260401-171111-b12d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20260325-170648-fql5",
       "title": "Fíbbs",
