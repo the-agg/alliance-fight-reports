@@ -1,7 +1,35 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "teal-ocean",
   "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260407-173050-fn8k",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-04-08T00:30:50.000Z",
+      "dateEnd": "2026-04-08T01:32:51.000Z",
+      "dateLabel": "4/7/2026, 5:30:50 PM - 4/7/2026, 6:32:51 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260407-173050-fn8k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20260401-171111-b12d",
       "title": "Reven The Big Show",
