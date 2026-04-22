@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260421-174752-7f9u",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-04-22T00:47:52.000Z",
+      "dateEnd": "2026-04-22T01:36:35.000Z",
+      "dateLabel": "4/21/2026, 5:47:52 PM - 4/21/2026, 6:36:35 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260421-174752-7f9u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 31,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260410-191121-wytv",
       "title": "Reven The Big Show",
       "commanders": [
