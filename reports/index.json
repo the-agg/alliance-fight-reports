@@ -1,7 +1,31 @@
 {
   "colorPalette": "crimson-red",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260508-192035-w6xe",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-05-09T02:20:35.000Z",
+      "dateEnd": "2026-05-09T03:15:19.000Z",
+      "dateLabel": "5/8/2026, 7:20:35 PM - 5/8/2026, 8:15:19 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260508-192035-w6xe",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 62
+      }
+    },
     {
       "id": "20260424-191033-i01y",
       "title": "Fíbbs, Sentinel Harasho",
