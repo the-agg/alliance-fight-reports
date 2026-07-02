@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-174015-mxqy",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-07-02T00:40:15.000Z",
+      "dateEnd": "2026-07-02T01:24:32.000Z",
+      "dateLabel": "7/1/2026, 5:40:15 PM - 7/1/2026, 6:24:32 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20260701-174015-mxqy",
+      "summary": {
+        "borderlandsPct": 0.6363636363636364,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260605-191343-jtg1",
       "title": "Reven The Big Show",
       "commanders": [
