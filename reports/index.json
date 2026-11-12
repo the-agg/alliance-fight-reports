@@ -1,8 +1,42 @@
 {
-  "colorPalette": "crimson-red",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "colorPalette": "axi-gold",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.25.0"
+  },
   "entries": [
+    {
+      "id": "20261111-184356-pnjn",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-12T02:43:56.000Z",
+      "dateEnd": "2026-11-12T03:38:29.430Z",
+      "dateLabel": "11/11/2026, 6:43:56 PM - 11/11/2026, 7:38:29 PM",
+      "url": "https://the-agg.github.io/alliance-fight-reports/?report=20261111-184356-pnjn",
+      "publishedBy": "darkharasho",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 50
+      }
+    },
     {
       "id": "20260701-174015-mxqy",
       "title": "Tilted Illusion",
